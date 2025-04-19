@@ -19,9 +19,9 @@ The program gives users control over the password's length and whether or not to
 
 ## How to Run the Program
 
-    ```bash
+```bash
     python3 main.py
-    ```
+ ```
 
 The program will prompt you to enter the desired password length and select character types (lowercase, uppercase, numbers, and special characters).
 
