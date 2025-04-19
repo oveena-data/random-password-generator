@@ -41,6 +41,5 @@ To run the unit tests for this project:
     This will execute the test cases defined in `test_password_generator.py` and give you feedback on whether all tests pass successfully.
 
 ### Authored by Oveena Widyaratne🐍
-Feel free to fork this repository, create pull requests, and contribute to the improvement of this project :)
 
 
