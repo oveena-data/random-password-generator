@@ -32,8 +32,6 @@ Follow the on-screen prompts to generate a secure password.
 
 ## How to Run Unit Tests
 
-To run the unit tests for this project:
-
 1. Make sure you're in the project directory.
 2. Run the following command to execute the tests:
 
