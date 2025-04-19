@@ -4,6 +4,9 @@ This is a Python-based secure password generator that allows users to create ran
 
 The program gives users control over the password's length and whether or not to include uppercase letters, numbers, and special characters.
 
+<img width="1113" alt="image" src="https://github.com/user-attachments/assets/89175b5e-6d32-4cbd-9232-becd9ddef679" />
+
+
 ## Key Features:
 - Customisable password length
 - Option to include lowercase letters, uppercase letters, numbers, and special characters
