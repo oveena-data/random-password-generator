@@ -1,15 +1,17 @@
 # 🔒Secure Password Generator
 
-This is a Python-based secure password generator that allows users to create random, secure passwords based on their preferences. The program gives users control over the password's length and whether or not to include uppercase letters, numbers, and special characters.
+This is a Python-based secure password generator that allows users to create random, secure passwords based on their preferences. 
+
+The program gives users control over the password's length and whether or not to include uppercase letters, numbers, and special characters.
 
 ## Key Features:
-- Customizable password length
+- Customisable password length
 - Option to include lowercase letters, uppercase letters, numbers, and special characters
 - Secure password generation using Python's `random.choice()` method
 - Unit tests to ensure that the password generation logic is correct
 
 ## Key Takeaways:
-- Learned how to create a password generator with various customizable options based on user preferences.
+- Learned how to create a password generator with various customisable options based on user preferences.
 - Gained experience in handling user input and validating that input.
 - Implemented unit tests using Python's built-in `unittest` module to validate the password generation functionality.
 - Improved knowledge of handling different types of characters and combining them in a random but secure manner.
@@ -17,27 +19,13 @@ This is a Python-based secure password generator that allows users to create ran
 
 ## How to Run the Program
 
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/yourusername/random-password-generator.git
-    ```
-
-2. Navigate into the project directory:
-
-    ```bash
-    cd random-password-generator
-    ```
-
-3. To run the password generator, use the following command:
-
     ```bash
     python3 main.py
     ```
 
-    The program will prompt you to enter the desired password length and select character types (lowercase, uppercase, numbers, and special characters).
+The program will prompt you to enter the desired password length and select character types (lowercase, uppercase, numbers, and special characters).
 
-4. Follow the on-screen prompts to generate a secure password.
+Follow the on-screen prompts to generate a secure password.
 
 ## How to Run Unit Tests
 
@@ -53,6 +41,6 @@ To run the unit tests for this project:
     This will execute the test cases defined in `test_password_generator.py` and give you feedback on whether all tests pass successfully.
 
 ### Authored by Oveena Widyaratne🐍
-Feel free to fork this repository, create pull requests, and contribute to the improvement of this project.
+Feel free to fork this repository, create pull requests, and contribute to the improvement of this project :)
 
 
