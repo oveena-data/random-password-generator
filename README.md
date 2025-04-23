@@ -13,8 +13,8 @@ The program gives users control over the password's length and whether or not to
 - Secure password generation using Python's `random.choice()` method
 - Unit tests to ensure that the password generation logic is correct
 
-## Key Takeaways:
-- Learned how to create a password generator with various customisable options based on user preferences.
+## My Key Takeaways:
+- Learned how to create a password generator with various customisable options based on user preferences (still trying to sync CL features with frontend)
 - Gained experience in handling user input and validating that input.
 - Implemented unit tests using Python's built-in `unittest` module to validate the password generation functionality.
 - Improved knowledge of handling different types of characters and combining them in a random but secure manner.
